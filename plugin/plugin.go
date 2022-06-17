@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/containerd/containerd/platforms"
+	"github.com/containerd/containerd-api/platforms"
 	"github.com/containerd/containerd/plugin"
 	"github.com/containerd/zfs"
 )
